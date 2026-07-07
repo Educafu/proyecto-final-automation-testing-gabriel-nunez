@@ -1,0 +1,31 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.coverage.*
+.cache/
+
+# Directorios de logs y reportes
+logs/
+reports/
+screenshots/
+
+# Configuración de entorno
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+
+# Archivos de sistema operativo
+*~
